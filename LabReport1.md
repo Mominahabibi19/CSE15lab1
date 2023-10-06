@@ -14,13 +14,16 @@
 
 
 
+
 ## cd command with a path to a directory as an argument
 ![Image](cdwdir.png)
 
 * The working directory was home when the cd command with a path to a directory as an argument was run.
 *  I got this output because the cd command is used to change the current directory to the other directory that we ask for so the argument was a path to the lecture1 directory.
-
 * The output is not an error. 
+
+
+
 
 
 
@@ -35,6 +38,8 @@
 
 
 
+
+
 ## ls command with no arguments
 ![Image](lswnoarg.png)
 
@@ -43,6 +48,8 @@
 * I got this output because the ls command is used to show all the directories and files of the given path. So lecture1 directory was under the home directory.
 
 * The output is not an error. 
+
+
 
 
 
